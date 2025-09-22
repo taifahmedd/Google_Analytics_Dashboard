@@ -49,9 +49,17 @@ Visual Insights:
 
 🔹 Key Learnings
 
-. 
 Building marketing dashboards to measure ROI & conversion performance
 
-Applying filters & slicers for interactive storytelling
+. Applying filters & slicers for interactive storytelling
 
+. 
 Visualizing multi-dimensional data (time, campaign, device, geography)
+
+🔹 Conclusion
+
+This dashboard provides a 360° view of campaign performance, helping businesses make data-driven marketing decisions.
+
+🔖 Feel free to check the dashboard and suggest improvements!
+
+#PowerBI #GoogleAnalytics #DataAnalytics #Dashboard #MarketingAnalytics
